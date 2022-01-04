@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jhut89/mailchimp3php": "^3.1"
+    }
+}
